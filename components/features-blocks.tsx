@@ -11,8 +11,8 @@ export default function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Explore the solutions</h2>
-            <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+            <h2 className="h2 mb-4">Why Choose Us?</h2>
+            <p className="text-xl text-gray-600">Discover the difference with LalaRent, where we combine technology, community, and sustainability to redefine the way goods are used. Our platform not only saves you money but also plays a crucial part in reducing environmental waste. Here's why thousands choose us:</p>
           </div>
 
           {/* Items */}
@@ -31,8 +31,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Cost-Effective Solutions</h4>
+              <p className="text-gray-600 text-center">Save money by borrowing what you need instead of buying, and earn by lending items you rarely use.</p>
             </div>
 
             {/* 2nd item */}
@@ -47,8 +47,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Environmental Impact</h4>
+              <p className="text-gray-600 text-center">Reduce waste and lower your carbon footprint by participating in a community that promotes the reuse and recycling of goods.</p>
             </div>
 
             {/* 3rd item */}
@@ -64,8 +64,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Wide Range of Products</h4>
+              <p className="text-gray-600 text-center">Access a diverse selection of items, from household appliances to electronics and tools, ensuring you always find what you need.</p>
             </div>
 
             {/* 4th item */}
@@ -81,8 +81,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Enhanced Security</h4>
+              <p className="text-gray-600 text-center">Enjoy peace of mind with our secure platform that offers built-in safeguards for both borrowers and lenders, including identity verification and secure payment processing.</p>
             </div>
 
             {/* 5th item */}
@@ -97,8 +97,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Community Support</h4>
+              <p className="text-gray-600 text-center">Benefit from a supportive community where users can share tips, offer advice, and help each other maximize the benefits of shared resources.</p>
             </div>
 
             {/* 6th item */}
@@ -112,8 +112,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Flexibility</h4>
+              <p className="text-gray-600 text-center">Experience the freedom to rent or lend on your terms with customizable rental periods and clear, straightforward terms of service.</p>
             </div>
 
           </div>
